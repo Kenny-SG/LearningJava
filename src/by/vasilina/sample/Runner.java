@@ -9,7 +9,7 @@ public class Runner {
         //helloWorldClass.printGreetings("Sergey");
         //helloWorldClass.readInt();
         //HelloWorldClass.printGreetingsStatic();
-        HelloWorldClass.task2dot();
+        HelloWorldClass.task2dot5();
 
     }
 }
