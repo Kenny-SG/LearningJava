@@ -5,8 +5,11 @@ package by.vasilina.sample;
  */
 public class Runner {
     public static void main(String[] args) {
-        HelloWorldClass helloWorldClass = new HelloWorldClass("blue");
-        helloWorldClass.printGreetings("Sergey");
-        HelloWorldClass.printGreetingsStatic();
+        //HelloWorldClass helloWorldClass = new HelloWorldClass("blue");
+        //helloWorldClass.printGreetings("Sergey");
+        //helloWorldClass.readInt();
+        //HelloWorldClass.printGreetingsStatic();
+        HelloWorldClass.task2dot();
+
     }
 }
