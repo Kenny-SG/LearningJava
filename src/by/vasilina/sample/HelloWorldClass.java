@@ -138,7 +138,7 @@ public class HelloWorldClass {
                     System.out.println("You have no apples. So sad =(");
                 }
                 else {
-                    System.out.println("You have "+(appl/100)+" hundred, "+(appl/10%10)+" dozen and "+appl%100%10+" apples");
+                    System.out.println("You have "+(appl/100)+" hundred, "+(appl/10%10)+" dozens and "+appl%100%10+" apples");
                 }
             }
     }
